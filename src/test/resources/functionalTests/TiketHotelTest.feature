@@ -25,4 +25,5 @@ Feature: Functional test Tiket website
 
     Examples:
       |email|password|
-      |franz_kenny95@yahoo.com     |Fr@n5_h@53@        |
+      |     |        |
+    #Supplied your facebook account here

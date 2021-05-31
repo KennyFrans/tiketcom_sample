@@ -39,5 +39,6 @@ Feature: Functional test Tiket website
 
     Examples:
       |email|password|
-      |fransdummy123@gmail.com     |1Qaz_2Wsx        |
+      |    |        |
+     #Supplied your email account here
 
