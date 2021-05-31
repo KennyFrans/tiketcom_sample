@@ -5,7 +5,10 @@ TIKET.COM automation sample
 
 This is tiket.com automation test made with selenium JAVA
 
-## Asumptions
+## Project Assumptions
+Here's the project assumption and the explanation that needed to read before running the test, for the task, i choose 2 task from the test which is task number 1 and 2
+* Task number 1
+* Task number 2
 
 ## Pre-requisite
 
@@ -13,6 +16,7 @@ This is tiket.com automation test made with selenium JAVA
 * Installing java JDK at least v1.8 JDK
 * Installing maven, currently im using maven for this project
 * Having IDE like intellij or Eclipse 
+* Because this is selenium and it needs a driver to run, the solution comes with chrome driver at least need chrome v90
 
 ## Setup
 
