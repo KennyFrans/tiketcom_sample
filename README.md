@@ -4,7 +4,7 @@ TIKET.COM automation sample
 ## Introduction
 
 This is tiket.com WEB APPLICATION automation test made with selenium JAVA
-* P.S. im sorry if there's a bug, a good application takes time to be polished
+* P.S. im sorry if there's a bug, but im try my best to do the best, a good application takes time to be polished
 
 ## Project Assumptions 
 Here's the project assumption and the explanation that needed to read before running the test, for the task, i choose 2 task from the test which is task number 1 and 2
