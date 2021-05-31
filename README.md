@@ -4,13 +4,15 @@ TIKET.COM automation sample
 ## Introduction
 
 This is tiket.com WEB APPLICATION automation test made with selenium JAVA
+P.S. im sorry if there's a bug, a good application takes time to be polished
 
 ## Project Assumptions 
 Here's the project assumption and the explanation that needed to read before running the test, for the task, i choose 2 task from the test which is task number 1 and 2
 * Task number 1: Product Hotel
  1. Since this is need the user to loggin using facebook, the test need a facebook account that already registered to TIKET.com website (not asking OTP when facebook login)
- 2. change the payment using virual account because i dont have any credit card (Yes im sad too :( )
+ 2. Change the payment using virual account because i dont have any credit card (Yes im sad too :( )
  3. You need to supplied your own facebook account at scenario outline examples (see project structure images, at resources/functionalTests folder, modified the TiketHotelTest.feature file) 
+ 4. Choosing first room from the room list
  
 * Task number 2 : Product FLight
  1. At this case the user need to be loggin using email which is asking OTP everytime the user loggin, because my test is for WEB APPLICATION so i modified the case scenario to be waiting for user to input some OTP to alert dialog
@@ -18,6 +20,7 @@ Here's the project assumption and the explanation that needed to read before run
  ![image](https://user-images.githubusercontent.com/12995106/120131546-d84b6c00-c1f2-11eb-9d4e-deb453838f7c.png)
 
  2. You need to supplied your own email account at scenario outline examples (see project structure images, at resources/functionalTests folder, modified the TiketFlightTest.feature file) 
+ 3. Choosing first plane from the plane list
 
 ## Pre-requisite
 
