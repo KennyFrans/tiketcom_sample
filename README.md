@@ -8,6 +8,7 @@ This is tiket.com automation test made with selenium JAVA
 ## Project Assumptions
 Here's the project assumption and the explanation that needed to read before running the test, for the task, i choose 2 task from the test which is task number 1 and 2
 * Task number 1
+**
 * Task number 2
 
 ## Pre-requisite
@@ -29,7 +30,9 @@ mvn clean install
 
 
 ## Project Structure
+![image](https://user-images.githubusercontent.com/12995106/120130799-455e0200-c1f1-11eb-9b7f-5186009441e0.png)
 
+The collapsed folder is the essential folder that user need to see
 
 ## Running the test
 There's 2 way to run the test
